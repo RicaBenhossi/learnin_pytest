@@ -1,2 +1,2 @@
-# testing_python
-Test of testing in python.
+# Learning Pytest
+Learn by doing... Series of pytest experiments.

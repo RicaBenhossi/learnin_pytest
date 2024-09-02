@@ -1,0 +1,6 @@
+pytest
+sqlalchemy
+mysql-connector
+PyMySQL
+mock-alchemy
+pytest-mock
